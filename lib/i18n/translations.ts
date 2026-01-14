@@ -54,6 +54,11 @@ export const translations = {
     chartLoading: "Ielādē...",
     chartEmpty: 'Izvēlieties parametrus un nospiediet "Parādīt grafiku"',
     chartRateLabel: "{currency}/EUR kurss",
+    chartShowData: "Parādīt datu tabulu",
+    chartHideData: "Slēpt datu tabulu",
+    chartExportPDF: "Eksportēt PDF",
+    chartPeriod: "Periods",
+    chartDataCount: "{count} periodi",
 
     // Month Picker
     monthPickerPlaceholder: "Izvēlieties mēnesi",
@@ -168,6 +173,11 @@ export const translations = {
     chartLoading: "Loading...",
     chartEmpty: 'Select parameters and press "Show Chart"',
     chartRateLabel: "{currency}/EUR rate",
+    chartShowData: "Show data table",
+    chartHideData: "Hide data table",
+    chartExportPDF: "Export PDF",
+    chartPeriod: "Period",
+    chartDataCount: "{count} periods",
 
     // Month Picker
     monthPickerPlaceholder: "Select month",
