@@ -12,7 +12,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
+Your project is live:
 
 **[https://vercel.com/zviedris-projects/v0-currency-exchange-calculator](https://vercel.com/zviedris-projects/v0-currency-exchange-calculator)**
 
